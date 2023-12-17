@@ -1,0 +1,69 @@
+.body {
+    border: 2px solid black;
+    width: 75%;
+    height: 1550px; 
+    margin-left: 12.5%;
+    padding-left: 2%;
+}
+.img {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 25px;
+}
+.link, h2 ,h3{
+    text-align: center;
+    line-height: 5px;
+}
+h2 {
+    margin-top: 50px;
+    font-size: 40px;
+}
+h4 ,h1{
+    margin-left: 15px;
+}
+h3 ,.Id,.two{
+    font-size: medium;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+.photo {
+    border: 2px solid black;
+    height: 120px;
+    width: 110px;
+    margin-top: 3%;
+    margin-right: 5%;
+    float: right;
+}
+input {
+    border: white;
+    border-bottom: 2px solid black;
+}
+pre {
+    font-size: 20px;
+    margin-left: -50px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 40px;
+}
+.four{
+    text-align: center;
+    font-size: large;
+}
+.p {
+    float: right;
+    margin-right: 50px;
+    margin-top: 75px;
+}
+.img1  {
+    height: 75px;
+    width: 75px;
+}
+.img2  {
+    height: 50px;
+    width: 100px;
+}
+table,tr,th,td {
+    border: 2px solid black;
+    text-align: center;
+    margin: 2% 0 3% 35%;
+}
